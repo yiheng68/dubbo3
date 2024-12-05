@@ -48,4 +48,6 @@ public class RegistryCenterStarted extends AbstractRegistryCenterTestExecutionLi
             // ignore the exception
         }
     }
+
+    // 测试test
 }
