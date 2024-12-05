@@ -49,5 +49,5 @@ public class RegistryCenterStarted extends AbstractRegistryCenterTestExecutionLi
         }
     }
 
-    // 测试test
+    // 测试test2
 }
