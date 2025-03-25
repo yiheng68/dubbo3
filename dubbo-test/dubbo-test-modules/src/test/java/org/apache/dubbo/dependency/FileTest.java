@@ -40,7 +40,7 @@ import org.dom4j.io.SAXReader;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-class FileTest {
+class FileTest { //test
     private static final List<Pattern> ignoredModules = new LinkedList<>();
     private static final List<Pattern> ignoredArtifacts = new LinkedList<>();
     private static final List<Pattern> ignoredModulesInDubboAll = new LinkedList<>();
